@@ -1,5 +1,5 @@
 body {
-    background-color: #4586BF;
+    background-color: #D3D5C8;
     font-size: 18px;
     font-family: 'Zen Antique Soft', serif;
 }
@@ -13,13 +13,13 @@ img {
 /* Mobile Styles */
 
 #container {
-    background-color: #1a1c20;
+    background-color: #878986;
     margin: 20px;
 }
 
 header {
     padding: 60px 40px;
-    border-bottom: 4px solid #63B6BF;
+    border-bottom: 4px solid #F2B705;
 }
 
 header h1 {
@@ -29,7 +29,7 @@ header h1 {
 }
 
 .col {
-    border: 4px solid #63B6BF;
+    border: 4px solid #F2B705;
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
@@ -52,7 +52,7 @@ header h1 {
 footer{
     padding: 40px 0;
     text-align: center;
-    border-top: 4px solid #63B6BF;
+    border-top: 4px solid #F2B705;
     font-weight: bold;
     font-family: 'Zen Old Mincho', serif;
     font-size: 1em;
